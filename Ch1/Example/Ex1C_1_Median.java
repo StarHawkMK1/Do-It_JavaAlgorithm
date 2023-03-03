@@ -2,7 +2,7 @@ package DoIt.JavaAlgorithm.Ch1;
 
 import java.util.Scanner;
 
-// 3개의 정숫값을 입력하고 중앙값을 구하여 출력하기
+// 3개의 정숫값을 입력하고 이들을 비교하여 중앙값을 출력하기
 
 public class Ex1C_1_Median {
     static int med3(int a, int b, int c) {
